@@ -1,7 +1,5 @@
 # Exp02-RollABall
 
-## Aishwarya S
-## 212222100003
 ## Aim :
 
 To develop a 3D application for RollABall in unity.
@@ -38,8 +36,8 @@ Stop.
 
 ## Program :
  
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY : Aishwarya S
+### REG NO : 212222100003
 ```
 using System.Collections;
 using System.Collections.Generic;
